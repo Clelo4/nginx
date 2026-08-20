@@ -1,0 +1,75 @@
+{
+  "configurations": [
+    {
+      "name": "Mac-Clang-NGINX",
+      "compileCommands": "${workspaceFolder}/compile_commands.json",
+      "includePath": [
+        "${workspaceFolder}/src/core",
+        "${workspaceFolder}/src/event",
+        "${workspaceFolder}/src/event/modules",
+        "${workspaceFolder}/src/event/quic",
+        "${workspaceFolder}/src/os/unix",
+        "${workspaceFolder}/objs",
+        "${workspaceFolder}/src/http",
+        "${workspaceFolder}/src/http/modules",
+        "${workspaceFolder}/src/http/v2",
+        "${workspaceFolder}/src/http/v3",
+        "${workspaceFolder}/src/stream",
+        "${workspaceFolder}/src/mail",
+        "/opt/homebrew/opt/pcre2/include",
+        "/opt/homebrew/opt/openssl@3/include"
+      ],
+      "defines": [
+        "NGX_DEBUG=1",
+        "NGX_HAVE_REUSEPORT=1",
+        "NGX_HAVE_KQUEUE=1",
+        "NGX_HAVE_SENDFILE=1"
+      ],
+      "forcedInclude": [
+        "${workspaceFolder}/objs/ngx_auto_config.h",
+        "${workspaceFolder}/objs/ngx_auto_headers.h"
+      ],
+      "macFrameworkPath": [
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+      ],
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c99",
+      "cppStandard": "c++14",
+      "intelliSenseMode": "macos-clang-arm64"
+    },
+    {
+      "name": "Linux-GCC-NGINX",
+      "compileCommands": "${workspaceFolder}/compile_commands.json",
+      "includePath": [
+        "${workspaceFolder}/src/core",
+        "${workspaceFolder}/src/event",
+        "${workspaceFolder}/src/event/modules",
+        "${workspaceFolder}/src/event/quic",
+        "${workspaceFolder}/src/os/unix",
+        "${workspaceFolder}/objs",
+        "${workspaceFolder}/src/http",
+        "${workspaceFolder}/src/http/modules",
+        "${workspaceFolder}/src/http/v2",
+        "${workspaceFolder}/src/http/v3",
+        "${workspaceFolder}/src/stream",
+        "${workspaceFolder}/src/mail"
+      ],
+      "defines": [
+        "NGX_DEBUG=1",
+        "NGX_HAVE_EPOLL=1",
+        "NGX_HAVE_CLEAR_EVENT=1",
+        "NGX_HAVE_REUSEPORT=1",
+        "NGX_HAVE_SENDFILE=1"
+      ],
+      "forcedInclude": [
+        "${workspaceFolder}/objs/ngx_auto_config.h",
+        "${workspaceFolder}/objs/ngx_auto_headers.h"
+      ],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c99",
+      "cppStandard": "c++14",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}

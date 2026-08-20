@@ -1,0 +1,707 @@
+[
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/nginx.o src/core/nginx.c",
+    "file": "/Users/robot/code/nginx/src/core/nginx.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_log.o src/core/ngx_log.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_log.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_palloc.o src/core/ngx_palloc.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_palloc.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_array.o src/core/ngx_array.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_array.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_list.o src/core/ngx_list.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_list.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_hash.o src/core/ngx_hash.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_hash.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_buf.o src/core/ngx_buf.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_buf.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_queue.o src/core/ngx_queue.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_queue.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_output_chain.o src/core/ngx_output_chain.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_output_chain.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_string.o src/core/ngx_string.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_string.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_parse.o src/core/ngx_parse.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_parse.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_parse_time.o src/core/ngx_parse_time.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_parse_time.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_inet.o src/core/ngx_inet.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_inet.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_file.o src/core/ngx_file.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_file.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_crc32.o src/core/ngx_crc32.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_crc32.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_murmurhash.o src/core/ngx_murmurhash.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_murmurhash.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_siphash.o src/core/ngx_siphash.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_siphash.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_md5.o src/core/ngx_md5.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_md5.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_sha1.o src/core/ngx_sha1.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_sha1.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_rbtree.o src/core/ngx_rbtree.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_rbtree.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_radix_tree.o src/core/ngx_radix_tree.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_radix_tree.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_slab.o src/core/ngx_slab.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_slab.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_times.o src/core/ngx_times.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_times.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_shmtx.o src/core/ngx_shmtx.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_shmtx.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_connection.o src/core/ngx_connection.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_connection.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_cycle.o src/core/ngx_cycle.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_cycle.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_spinlock.o src/core/ngx_spinlock.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_spinlock.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_rwlock.o src/core/ngx_rwlock.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_rwlock.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_cpuinfo.o src/core/ngx_cpuinfo.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_cpuinfo.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_conf_file.o src/core/ngx_conf_file.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_conf_file.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_module.o src/core/ngx_module.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_resolver.o src/core/ngx_resolver.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_resolver.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_open_file_cache.o src/core/ngx_open_file_cache.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_open_file_cache.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_crypt.o src/core/ngx_crypt.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_crypt.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_data.o src/core/ngx_data.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_data.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_json.o src/core/ngx_json.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_json.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_proxy_protocol.o src/core/ngx_proxy_protocol.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_proxy_protocol.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_syslog.o src/core/ngx_syslog.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_syslog.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event.o src/event/ngx_event.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_timer.o src/event/ngx_event_timer.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_timer.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_posted.o src/event/ngx_event_posted.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_posted.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_accept.o src/event/ngx_event_accept.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_accept.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_udp.o src/event/ngx_event_udp.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_udp.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_connect.o src/event/ngx_event_connect.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_connect.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_pipe.o src/event/ngx_event_pipe.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_pipe.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_time.o src/os/unix/ngx_time.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_time.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_errno.o src/os/unix/ngx_errno.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_errno.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_alloc.o src/os/unix/ngx_alloc.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_alloc.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_files.o src/os/unix/ngx_files.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_files.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_socket.o src/os/unix/ngx_socket.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_socket.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_recv.o src/os/unix/ngx_recv.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_recv.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_readv_chain.o src/os/unix/ngx_readv_chain.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_readv_chain.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_udp_recv.o src/os/unix/ngx_udp_recv.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_udp_recv.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_send.o src/os/unix/ngx_send.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_send.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_writev_chain.o src/os/unix/ngx_writev_chain.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_writev_chain.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_udp_send.o src/os/unix/ngx_udp_send.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_udp_send.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_udp_sendmsg_chain.o src/os/unix/ngx_udp_sendmsg_chain.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_udp_sendmsg_chain.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_channel.o src/os/unix/ngx_channel.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_channel.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_shmem.o src/os/unix/ngx_shmem.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_shmem.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_process.o src/os/unix/ngx_process.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_process.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_daemon.o src/os/unix/ngx_daemon.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_daemon.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_setaffinity.o src/os/unix/ngx_setaffinity.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_setaffinity.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_setproctitle.o src/os/unix/ngx_setproctitle.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_setproctitle.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_posix_init.o src/os/unix/ngx_posix_init.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_posix_init.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_user.o src/os/unix/ngx_user.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_user.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_dlopen.o src/os/unix/ngx_dlopen.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_dlopen.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_process_cycle.o src/os/unix/ngx_process_cycle.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_process_cycle.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_darwin_init.o src/os/unix/ngx_darwin_init.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_darwin_init.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/modules/ngx_kqueue_module.o src/event/modules/ngx_kqueue_module.c",
+    "file": "/Users/robot/code/nginx/src/event/modules/ngx_kqueue_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/os/unix/ngx_darwin_sendfile_chain.o src/os/unix/ngx_darwin_sendfile_chain.c",
+    "file": "/Users/robot/code/nginx/src/os/unix/ngx_darwin_sendfile_chain.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_openssl.o src/event/ngx_event_openssl.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_openssl.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_openssl_cache.o src/event/ngx_event_openssl_cache.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_openssl_cache.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/event/ngx_event_openssl_stapling.o src/event/ngx_event_openssl_stapling.c",
+    "file": "/Users/robot/code/nginx/src/event/ngx_event_openssl_stapling.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/src/core/ngx_regex.o src/core/ngx_regex.c",
+    "file": "/Users/robot/code/nginx/src/core/ngx_regex.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http.o src/http/ngx_http.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_core_module.o src/http/ngx_http_core_module.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_core_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_special_response.o src/http/ngx_http_special_response.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_special_response.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_request.o src/http/ngx_http_request.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_request.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_parse.o src/http/ngx_http_parse.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_parse.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_log_module.o src/http/modules/ngx_http_log_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_log_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_request_body.o src/http/ngx_http_request_body.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_request_body.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_variables.o src/http/ngx_http_variables.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_variables.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_script.o src/http/ngx_http_script.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_script.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_upstream.o src/http/ngx_http_upstream.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_upstream.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_upstream_round_robin.o src/http/ngx_http_upstream_round_robin.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_upstream_round_robin.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_file_cache.o src/http/ngx_http_file_cache.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_file_cache.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_huff_decode.o src/http/ngx_http_huff_decode.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_huff_decode.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_huff_encode.o src/http/ngx_http_huff_encode.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_huff_encode.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_write_filter_module.o src/http/ngx_http_write_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_write_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_header_filter_module.o src/http/ngx_http_header_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_header_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_chunked_filter_module.o src/http/modules/ngx_http_chunked_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_chunked_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/v2/ngx_http_v2_filter_module.o src/http/v2/ngx_http_v2_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/v2/ngx_http_v2_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_range_filter_module.o src/http/modules/ngx_http_range_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_range_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_gzip_filter_module.o src/http/modules/ngx_http_gzip_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_gzip_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_postpone_filter_module.o src/http/ngx_http_postpone_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_postpone_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_ssi_filter_module.o src/http/modules/ngx_http_ssi_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_ssi_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_charset_filter_module.o src/http/modules/ngx_http_charset_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_charset_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_userid_filter_module.o src/http/modules/ngx_http_userid_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_userid_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_headers_filter_module.o src/http/modules/ngx_http_headers_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_headers_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/ngx_http_copy_filter_module.o src/http/ngx_http_copy_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/ngx_http_copy_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_not_modified_filter_module.o src/http/modules/ngx_http_not_modified_filter_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_not_modified_filter_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/v2/ngx_http_v2.o src/http/v2/ngx_http_v2.c",
+    "file": "/Users/robot/code/nginx/src/http/v2/ngx_http_v2.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/v2/ngx_http_v2_table.o src/http/v2/ngx_http_v2_table.c",
+    "file": "/Users/robot/code/nginx/src/http/v2/ngx_http_v2_table.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/v2/ngx_http_v2_encode.o src/http/v2/ngx_http_v2_encode.c",
+    "file": "/Users/robot/code/nginx/src/http/v2/ngx_http_v2_encode.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/v2/ngx_http_v2_module.o src/http/v2/ngx_http_v2_module.c",
+    "file": "/Users/robot/code/nginx/src/http/v2/ngx_http_v2_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_static_module.o src/http/modules/ngx_http_static_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_static_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_gzip_static_module.o src/http/modules/ngx_http_gzip_static_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_gzip_static_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_autoindex_module.o src/http/modules/ngx_http_autoindex_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_autoindex_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_index_module.o src/http/modules/ngx_http_index_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_index_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_mirror_module.o src/http/modules/ngx_http_mirror_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_mirror_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_try_files_module.o src/http/modules/ngx_http_try_files_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_try_files_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_auth_basic_module.o src/http/modules/ngx_http_auth_basic_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_auth_basic_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_access_module.o src/http/modules/ngx_http_access_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_access_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_limit_conn_module.o src/http/modules/ngx_http_limit_conn_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_limit_conn_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_limit_req_module.o src/http/modules/ngx_http_limit_req_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_limit_req_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_geo_module.o src/http/modules/ngx_http_geo_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_geo_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_map_module.o src/http/modules/ngx_http_map_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_map_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_split_clients_module.o src/http/modules/ngx_http_split_clients_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_split_clients_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_referer_module.o src/http/modules/ngx_http_referer_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_referer_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_rewrite_module.o src/http/modules/ngx_http_rewrite_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_rewrite_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_ssl_module.o src/http/modules/ngx_http_ssl_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_ssl_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_proxy_module.o src/http/modules/ngx_http_proxy_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_proxy_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_fastcgi_module.o src/http/modules/ngx_http_fastcgi_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_fastcgi_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_uwsgi_module.o src/http/modules/ngx_http_uwsgi_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_uwsgi_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_scgi_module.o src/http/modules/ngx_http_scgi_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_scgi_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_grpc_module.o src/http/modules/ngx_http_grpc_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_grpc_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_proxy_v2_module.o src/http/modules/ngx_http_proxy_v2_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_proxy_v2_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_tunnel_module.o src/http/modules/ngx_http_tunnel_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_tunnel_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_memcached_module.o src/http/modules/ngx_http_memcached_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_memcached_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_empty_gif_module.o src/http/modules/ngx_http_empty_gif_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_empty_gif_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_browser_module.o src/http/modules/ngx_http_browser_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_browser_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_hash_module.o src/http/modules/ngx_http_upstream_hash_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_hash_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_ip_hash_module.o src/http/modules/ngx_http_upstream_ip_hash_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_ip_hash_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_least_conn_module.o src/http/modules/ngx_http_upstream_least_conn_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_least_conn_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_least_time_module.o src/http/modules/ngx_http_upstream_least_time_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_least_time_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_random_module.o src/http/modules/ngx_http_upstream_random_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_random_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_keepalive_module.o src/http/modules/ngx_http_upstream_keepalive_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_keepalive_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_zone_module.o src/http/modules/ngx_http_upstream_zone_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_zone_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_upstream_sticky_module.o src/http/modules/ngx_http_upstream_sticky_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_upstream_sticky_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -I src/http -I src/http/modules -I src/http/v2 -o objs/src/http/modules/ngx_http_stub_status_module.o src/http/modules/ngx_http_stub_status_module.c",
+    "file": "/Users/robot/code/nginx/src/http/modules/ngx_http_stub_status_module.c"
+  },
+  {
+    "directory": "/Users/robot/code/nginx",
+    "command": "cc -c -pipe  -O -Wall -Wextra -Wpointer-arith -Wconditional-uninitialized -Wno-unused-parameter -Wno-deprecated-declarations -Werror -g -I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include -I src/core -I src/event -I src/event/modules -I src/event/quic -I src/os/unix -I objs -o objs/ngx_modules.o objs/ngx_modules.c",
+    "file": "/Users/robot/code/nginx/objs/ngx_modules.c"
+  }
+]

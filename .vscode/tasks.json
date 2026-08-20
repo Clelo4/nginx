@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build NGINX",
+      "type": "shell",
+      "command": "make -j$(sysctl -n hw.ncpu 2>/dev/null || nproc)",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Generate compile_commands.json",
+      "type": "shell",
+      "command": "python3 tools/gen_compile_commands.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Configure NGINX (Debug + Full Modules)",
+      "type": "shell",
+      "command": "./auto/configure --with-debug --with-http_ssl_module --with-http_v2_module --with-http_stub_status_module --with-http_gzip_static_module --with-cc-opt=\"-I/opt/homebrew/opt/pcre2/include -I/opt/homebrew/opt/openssl@3/include\" --with-ld-opt=\"-L/opt/homebrew/opt/pcre2/lib -L/opt/homebrew/opt/openssl@3/lib\" && python3 tools/gen_compile_commands.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Clean NGINX",
+      "type": "shell",
+      "command": "make clean",
+      "problemMatcher": []
+    }
+  ]
+}

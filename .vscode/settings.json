@@ -1,0 +1,33 @@
+{
+  // 1. 关闭 Microsoft C/C++ 插件的语法引擎与诊断，避免与 clangd 冲突
+  //    (保留 cpptools 用于 F5 GDB/LLDB 断点调试)
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "C_Cpp.autocomplete": "disabled",
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.formatting": "disabled",
+
+  // 2. 彻底禁用 clangd 的扩展冲突弹窗检测
+  "clangd.detectExtensionConflicts": false,
+
+  // 3. 配置 clangd 使用本项目的 compile_commands.json
+  "clangd.arguments": [
+    "--compile-commands-dir=${workspaceFolder}",
+    "--header-insertion=never",
+    "--background-index",
+    "-j=4",
+    "--clang-tidy",
+    "--completion-style=detailed"
+  ],
+
+  // 4. 关联配置文件与搜索过滤
+  "files.associations": {
+    "*.h": "c",
+    "*.c": "c",
+    "*.conf": "nginx",
+    "nginx.conf": "nginx"
+  },
+  "search.exclude": {
+    "**/objs/*.o": true,
+    "**/objs/src/**": true
+  }
+}
